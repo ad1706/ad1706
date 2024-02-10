@@ -16,7 +16,8 @@ I'm an enthusiastic and creative undergrad with a zest for development (Ask me a
     <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="55" height="55"/>&nbsp;&nbsp;
     <img src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/0aea25bb-27bb-427f-8d65-f999bf0cba67.svg" alt="VSCode" width="55" height="55"/>&nbsp;&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="55" height="55"/>&nbsp;&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas" width="55" height="55"/>&nbsp;&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="55" height="55"/>&nbsp;&nbsp;
+
 </p>
 
 ## 📚 What I'm Learning
