@@ -30,6 +30,6 @@ I'm an enthusiastic and creative undergrad with a zest for development (Ask me a
 
 <p align="left">
     <a href="mailto:aditya17lal@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" width="55" height="55"/></a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/adityalal1/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="50" height="50"/></a>
+    <a href="https://www.linkedin.com/in/aditya17lal/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="50" height="50"/></a>
 </p>
 
