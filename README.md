@@ -22,7 +22,6 @@ I'm an enthusiastic and creative undergrad with a zest for development (Ask me a
 
 ## 📚 What I'm Learning
 
-- Diving into Java as part of my elective on OOP
 - Venturing into Spring Boot for backend development
 - Strengthening my foundation in Data Structures and Algorithms
 - Exploring the realm of Cloud Computing
