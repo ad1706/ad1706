@@ -2,7 +2,7 @@
 
 ## ☀ About Me
 
-I'm an enthusiastic and creative undergrad with a zest for development (Ask me about python!) and problem-solving, enjoy working in collaborative environments. Currently, I'm exploring various areas of computer science, keen to explore new concepts and develop my competency in the professional world by contributing to innovative projects. 
+I'm an enthusiastic and creative undergrad with a zest for development (Ask me about python!) and problem-solving, enjoy working in collaborative environments. Currently, I'm exploring various areas of computer science, keen to learn new concepts and develop my competency in the professional world by contributing to innovative projects. 
 
 ## 💻 My Tech Stack
 
