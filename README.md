@@ -2,7 +2,7 @@
 
 ## ☀ About Me
 
-I'm an enthusiastic and creative undergrad with a zest for development (Ask me about python!) and problem-solving, enjoy working in collaborative environments. Currently, I'm exploring various areas of computer science, keen to learn new concepts and develop my competency in the professional world by contributing to innovative projects. 
+I'm an enthusiastic and creative undergrad with a zest for development and problem-solving who enjoys working in collaborative environments. Currently, I'm exploring various areas of computer science, keen to learn new concepts and develop my competency in the professional world by contributing to innovative projects. 
 
 ## 💻 My Tech Stack
 
@@ -22,9 +22,9 @@ I'm an enthusiastic and creative undergrad with a zest for development (Ask me a
 
 ## 📚 What I'm Learning
 
-- Venturing into Spring Boot for backend development
+- Delving into backend development
 - Strengthening my foundation in Data Structures and Algorithms
-- Exploring the realm of Cloud Computing
+- Exploring Cloud Computing
 
 ## 📮 Connect with Me!
 
