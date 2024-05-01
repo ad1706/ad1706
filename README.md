@@ -22,7 +22,7 @@ I'm an enthusiastic and creative undergrad with a passion for development and pr
 
 ## 📚 What I'm Learning
 
-- Delving into backend development
+- Delving into backend development, starting with Django
 - Strengthening my foundation in Data Structures and Algorithms
 - Exploring Cloud Computing
 
