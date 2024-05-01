@@ -900,3 +900,29 @@ module Next_Add (CLK, rst, Rs, Rt, Pc, Jta, BrType, SysCallAdd, PcSrc, IncPc, Ne
         end
     end
 endmodule
+
+2. Implement a 4-bit Booths Multiplier
+module BoothsMult4 (
+input signed [3:0] M,
+input signed [3:0] Ǫ,
+output reg signed [7:0] A
+);
+parameter N = 4;
+reg [1:0] temp;
+reg Ǫ1;
+always @(M, Ǫ) begin
+A = 8'd0;
+Ǫ1 = 1'd0;
+for (integer i = 0; i < 4; i = i + 1) begin
+temp = {Ǫ[0], Ǫ1};
+case (temp)
+2'b01: A[7:4] = A[7:4] + M;
+2'b10: A[7:4] = A[7:4] - M;
+default: begin end
+endcase
+A = A >> 1;
+A[7] = A[6];
+Ǫ1 = Ǫ[0];
+end
+end
+endmodule
