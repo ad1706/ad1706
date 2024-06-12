@@ -3,9 +3,7 @@
 ## ☀ About Me
 
 I am an enthusiastic and creative undergrad with a zest for development and problem-solving, enjoy working in collaborative environments. Currently exploring various areas of computer science, keen to learn new concepts and develop my competency in the professional world by contributing to innovative projects. 
-
 <br>
-
 ## 💻 My Tech Stack
 
 <p align="left">
@@ -17,9 +15,7 @@ I am an enthusiastic and creative undergrad with a zest for development and prob
     <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" alt="Bash" width="60" height="60"/>&nbsp;&nbsp;
     <img src="https://www.svgrepo.com/show/373848/mysql.svg" alt="MySQL" width="55" height="55"/>&nbsp;&nbsp;
 </p>
-
 <br>
-
 ## 📮 Connect with Me!
 
 <p align="left">
