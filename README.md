@@ -4,6 +4,8 @@
 
 I am an enthusiastic and creative undergrad with a zest for development and problem-solving, enjoy working in collaborative environments. Currently exploring various areas of computer science, keen to learn new concepts and develop my competency in the professional world by contributing to innovative projects. 
 
+<br>
+
 ## 💻 My Tech Stack
 
 <p align="left">
@@ -16,10 +18,12 @@ I am an enthusiastic and creative undergrad with a zest for development and prob
     <img src="https://www.svgrepo.com/show/373848/mysql.svg" alt="MySQL" width="55" height="55"/>&nbsp;&nbsp;
 </p>
 
+<br>
+
 ## 📮 Connect with Me!
 
 <p align="left">
-    <a href="mailto:aditya17lal@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" width="55" height="55"/></a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/aditya17lal/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="50" height="50"/></a>
+    <a href="mailto:aditya17lal@gmail.com"><img src="https://www.svgrepo.com/show/452213/gmail.svg" alt="Email" width="55" height="55"/></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/aditya17lal/"><img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="LinkedIn" width="50" height="50"/></a>
 </p>
 
