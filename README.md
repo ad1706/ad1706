@@ -8,7 +8,7 @@ I'm an enthusiastic and creative undergrad with a passion for development and pr
 
 <p align="left">
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="55" height="55"/>&nbsp;&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="55" height="55"/>&nbsp;&nbsp;
+    <img src="(https://upload.vectorlogo.zone/logos/javascript/images/806c2e30-cf85-4b36-81bb-037049603c34.svg)" alt="JavaScript" width="55" height="55"/>&nbsp;&nbsp;
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="Html" width="55" height="55"/>&nbsp;&nbsp;
     <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="Css" width="55" height="55"/>&nbsp;&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Bash" width="55" height="55"/>&nbsp;&nbsp;
