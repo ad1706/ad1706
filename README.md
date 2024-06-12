@@ -20,6 +20,6 @@ I am an enthusiastic and creative undergrad with a zest for development and prob
 
 <p align="left">
     <a href="mailto:aditya17lal@gmail.com"><img src="https://www.svgrepo.com/show/452213/gmail.svg" alt="Email" width="60" height="60"/></a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/aditya17lal/"><img src="https://www.svgrepo.com/show/303299/linkedin-icon-2-logo.svg" alt="LinkedIn" width="50" height="50"/></a>
+    <a href="https://www.linkedin.com/in/aditya17lal/"><img src="https://www.svgrepo.com/show/303299/linkedin-icon-2-logo.svg" alt="LinkedIn" width="50" height="45"/></a>
 </p>
 
