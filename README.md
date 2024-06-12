@@ -2,7 +2,7 @@
 
 ## ☀ About Me
 
-I'm an enthusiastic and creative undergrad with a passion for development and problem-solving, thrive in collaborative environments. Currently, I'm exploring various areas of computer science, keen to learn new concepts and develop my competency in the professional world by contributing to innovative projects. 
+I am an enthusiastic and creative undergrad with a zest for development and problem-solving, enjoy working in collaborative environments. Currently exploring various areas of computer science, keen to learn new concepts and develop my competency in the professional world by contributing to innovative projects. 
 
 ## 💻 My Tech Stack
 
@@ -15,12 +15,6 @@ I'm an enthusiastic and creative undergrad with a passion for development and pr
     <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" alt="Bash" width="60" height="60"/>&nbsp;&nbsp;
     <img src="https://www.svgrepo.com/show/373848/mysql.svg" alt="MySQL" width="55" height="55"/>&nbsp;&nbsp;
 </p>
-
-## 📚 What I'm Learning
-
-- Delving into backend development, starting with Django
-- Strengthening my foundation in Data Structures and Algorithms
-- Exploring Cloud Computing
 
 ## 📮 Connect with Me!
 
