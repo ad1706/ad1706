@@ -2,7 +2,9 @@
 
 ## ☀ About Me
 
-I am an enthusiastic and creative undergrad with a zest for development and problem-solving, enjoy working in collaborative environments. Currently exploring various areas of computer science, keen to learn new concepts and develop my competency in the professional world by contributing to innovative projects. 
+
+A creative with a zest for development, I enjoy working in collaborative environments where ideas can flourish. Eager to learn new technologies and enhance my competency in the professional world.
+
 <br>
 ## 💻 My Tech Stack
 
