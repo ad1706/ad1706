@@ -5,7 +5,6 @@
 
 A creative with a zest for development, I enjoy working in collaborative environments where ideas can flourish. Eager to learn new technologies and enhance my competency in the professional world.
 
-<br>
 ## 💻 My Tech Stack
 
 <p align="left">
