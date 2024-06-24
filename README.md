@@ -15,7 +15,7 @@ A creative undergrad with a zest for development, I enjoy working in collaborati
     <img src="https://www.svgrepo.com/show/353925/javascript.svg" alt="JavaScript" width="55" height="55"/>&nbsp;&nbsp;
     <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" alt="NodeJS" width="55" height="55"/>&nbsp;&nbsp;
     <img src="https://www.svgrepo.com/show/354481/ubuntu.svg" alt="Ubuntu" width="55" height="55"/>&nbsp;&nbsp;
-    <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" alt="Bash" width="60" height="60"/>&nbsp;&nbsp;
+    <!-- img src="https://www.svgrepo.com/show/353478/bash-icon.svg" alt="Bash" width="60" height="60"/ -->
     <img src="https://www.svgrepo.com/show/373848/mysql.svg" alt="MySQL" width="55" height="55"/>&nbsp;&nbsp;
 
 
