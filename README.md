@@ -2,8 +2,7 @@
 
 ## ☀ About Me
 
-
-A creative undergrad with a zest for development, I enjoy working in collaborative environments where ideas can flourish. Eager to learn new technologies and enhance my competency in the professional world. Currently delving into frameworks such as Django and strengthening my foundation in data structures and algorithms.
+A creative undergrad with a zest for development, always eager to delve into new technologies. Keen to leverage and enhance my competency in spaces where ideas can flourish. Currently working on innovative projects along with strengthening my foundation in data structures and algorithms.
 
 ## 💻 My Tech Stack
 
