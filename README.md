@@ -2,7 +2,7 @@
 
 ## ☀ About Me
 
-A creative undergrad with a zest for development, always eager to delve into new technologies. Keen to leverage and enhance my competency in spaces where ideas can flourish. Currently working on innovative projects along with strengthening my foundation in data structures and algorithms.
+A creative with a zest for development and a keen interest in exploring and adopting new technologies. Keen to leverage and enhance my competency in spaces where ideas can flourish. Currently focused on developing new projects and strengthening my foundation in data structures and algorithms.
 
 ## 💻 My Tech Stack
 
@@ -13,9 +13,10 @@ A creative undergrad with a zest for development, always eager to delve into new
     <img src="https://www.svgrepo.com/show/349330/css3.svg" alt="Css" width="55" height="55"/>&nbsp;&nbsp;
     <img src="https://www.svgrepo.com/show/353925/javascript.svg" alt="JavaScript" width="55" height="55"/>&nbsp;&nbsp;
     <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" alt="NodeJS" width="55" height="55"/>&nbsp;&nbsp;
+    <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" alt="Bootstrap" width="55" height="55"/>&nbsp;&nbsp;
     <img src="https://www.svgrepo.com/show/354481/ubuntu.svg" alt="Ubuntu" width="55" height="55"/>&nbsp;&nbsp;
     <!-- img src="https://www.svgrepo.com/show/353478/bash-icon.svg" alt="Bash" width="60" height="60"/ -->
-    <img src="https://www.svgrepo.com/show/373848/mysql.svg" alt="MySQL" width="55" height="55"/>&nbsp;&nbsp;
+    <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" alt="MySQL" width="60" height="60"/>&nbsp;&nbsp;
 
 
 </p>
