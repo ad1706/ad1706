@@ -39,3 +39,39 @@ digitalWrite(L7, LOW);
 digitalWrite(L8, LOW);
 delay(2000);
 }
+
+// Controlling LED with a switch
+
+// 1. Connect P3 port and SV13(Digital Input Switch) port and connect P2 port and SV2(LED) port using FRC cable as shown above.
+// 2. Connect the USB cable to the board.
+// 3. Open Arduino IDE .Select DOIT ESP32 DEVKIT V1in boards and select COM port.
+// 4. Now write the program, verify and Upload it.
+// 5. Now, when the switch is turned on, LED gets On. 
+
+const int Led[8]={23, 22, 21, 19, 18, 5, 17, 16}; //declaring LEDs (Port P2)
+void setup()
+{
+for(int i=0;i<8;i++)
+{
+pinMode(Switch[i],INPUT);
+pinMode(Led[i],OUTPUT);
+delay(20);
+}
+}
+void loop()
+{
+for(int i=0; i<8;i++)
+{
+digitalWrite(Led[i],digitalRead(Switch[i]));//Reads the state of each switches and replicate
+}
+delay(1000);
+}
+void loop()
+{
+for(int i=0; i<8;i++)
+ {
+ digitalWrite(Led[i],digitalRead(Switch[i]));//Reads the state of each switches and replicate
+it on LEDs
+ }
+delay(1000);
+}
