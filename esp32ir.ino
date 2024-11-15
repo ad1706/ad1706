@@ -1,4 +1,3 @@
-//5.2
 const int proximity=5;    
 int value=0;
 const int sel1=25, sel2=26, sel3=2, sel4=4; //initializing selection pins -Port P3
@@ -165,3 +164,26 @@ else
  delay(2000);
 } 
 } 
+
+// 1. Connect P2 port pins (5, GND, 3V) to IR Sensor pins (OUT, GND, 5V) using patch chords as shown above.
+// 2. Connect the USB cable to the board.
+// 3. Open Arduino IDE .Select DOIT ESP32 DEVKIT V1 in boards and select COM port.
+// 4. Write the program, verify and Upload it.
+// 5. Now you can see the output on the serial monitor
+
+		  const int proximity=5; //pin5 of port P1 connected to IR sensor
+		  int value=0;
+		  void setup() {
+		  Serial.begin(9600);
+		  pinMode(proximity, INPUT); //declared as input
+		  delay(100);
+		  }
+		  void loop() {
+		  value=digitalRead(proximity); // storing sensor data in a variable.
+		  delay(1000);
+		  if(!value) //check for an obstacle if present.
+		  {
+		  Serial.println("obstacle detected.."); //display this message when obstacle detects
+		  }
+		  }
+		  
